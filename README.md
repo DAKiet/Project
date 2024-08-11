@@ -12,7 +12,10 @@ https://apps.apple.com/vn/app/zorbax/id6444282140
 4. Weepaz:
 https://apps.apple.com/vn/app/weepaz/id1637617741
 
-5. Orther: (Không còn trên AppStore)
+5. Ortho:
+https://apps.apple.com/us/app/ortho/id6460859611
+
+7. Orther: (Không còn trên AppStore)
 - Lixi, Merchant, Delivery.
 - Union, TGNY
 
